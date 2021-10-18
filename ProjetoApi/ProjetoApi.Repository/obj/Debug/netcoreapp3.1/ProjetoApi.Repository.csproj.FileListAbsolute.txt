@@ -1,0 +1,13 @@
+C:\Projetos\ProjetoApi\ProjetoApi\ProjetoApi.Repository\bin\Debug\netcoreapp3.1\ProjetoApi.Repository.deps.json
+C:\Projetos\ProjetoApi\ProjetoApi\ProjetoApi.Repository\bin\Debug\netcoreapp3.1\ProjetoApi.Repository.runtimeconfig.json
+C:\Projetos\ProjetoApi\ProjetoApi\ProjetoApi.Repository\bin\Debug\netcoreapp3.1\ProjetoApi.Repository.runtimeconfig.dev.json
+C:\Projetos\ProjetoApi\ProjetoApi\ProjetoApi.Repository\bin\Debug\netcoreapp3.1\ProjetoApi.Repository.dll
+C:\Projetos\ProjetoApi\ProjetoApi\ProjetoApi.Repository\bin\Debug\netcoreapp3.1\ProjetoApi.Repository.pdb
+C:\Projetos\ProjetoApi\ProjetoApi\ProjetoApi.Repository\obj\Debug\netcoreapp3.1\ProjetoApi.Repository.csproj.AssemblyReference.cache
+C:\Projetos\ProjetoApi\ProjetoApi\ProjetoApi.Repository\obj\Debug\netcoreapp3.1\ProjetoApi.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ProjetoApi\ProjetoApi\ProjetoApi.Repository\obj\Debug\netcoreapp3.1\ProjetoApi.Repository.AssemblyInfoInputs.cache
+C:\Projetos\ProjetoApi\ProjetoApi\ProjetoApi.Repository\obj\Debug\netcoreapp3.1\ProjetoApi.Repository.AssemblyInfo.cs
+C:\Projetos\ProjetoApi\ProjetoApi\ProjetoApi.Repository\obj\Debug\netcoreapp3.1\ProjetoApi.Repository.csproj.CoreCompileInputs.cache
+C:\Projetos\ProjetoApi\ProjetoApi\ProjetoApi.Repository\obj\Debug\netcoreapp3.1\ProjetoApi.Repository.dll
+C:\Projetos\ProjetoApi\ProjetoApi\ProjetoApi.Repository\obj\Debug\netcoreapp3.1\ProjetoApi.Repository.pdb
+C:\Projetos\ProjetoApi\ProjetoApi\ProjetoApi.Repository\obj\Debug\netcoreapp3.1\ProjetoApi.Repository.genruntimeconfig.cache
